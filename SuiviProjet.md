@@ -8,3 +8,4 @@
   Figure.java         -> à compléter
   Rectangle.java      -> à compléter
   Ellipse.java        -> à compléter
+
